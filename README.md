@@ -35,7 +35,7 @@ O programa encontrará cada valor com seu respectivo resto de divisão igual a z
 
         print(999)
 
-
+## Terminal
 ![image info](https://github.com/gmsmoreno/intership-PF/blob/main/resultado1.JPG)
 
 ![image info](https://github.com/gmsmoreno/intership-PF/blob/main/resultado2.JPG)
