@@ -36,7 +36,7 @@ O programa encontrará cada valor com seu respectivo resto de divisão igual a z
         print(999)
 
 
-
+![image info]()
 
         
         
