@@ -21,22 +21,22 @@ O programa encontrará cada valor com seu respectivo resto de divisão igual a z
 
 ## Algoritmo de resolução:
 
-for c in range(0, 998):
+    for c in range(0, 998):
 
-    c += 1
+        c += 1
 
-    if c == 1:
-
-       print(f'{c},', end='')
-
-    if c % 3 == 0 or c % 5 == 0:
+        if c == 1:
 
         print(f'{c},', end='')
 
-if 999 % 3 == 0:
+        if c % 3 == 0 or c % 5 == 0:
 
-    print(999)
-        
+            print(f'{c},', end='')
+
+    if 999 % 3 == 0:
+
+        print(999)
+            
 
         
         
