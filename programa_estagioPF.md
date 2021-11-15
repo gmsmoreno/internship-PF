@@ -34,6 +34,7 @@ for c in range(0, 998):
         print(f'{c},', end='')
 
 if 999 % 3 == 0:
+
     print(999)
         
 
